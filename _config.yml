@@ -1,7 +1,7 @@
 title: "Winger Solutions B. V."
 description: "Custom software solutions, web development & consulting"
-baseurl: "/wingersolutions" # the subpath of your site, e.g. /blog
-url: "https://dbwinger.github.io" # Your GitHub Pages URL
+baseurl: "" # Empty for custom domain
+url: "https://wingersolutions.nl" # Your custom domain
 
 # Theme
 remote_theme: pages-themes/hacker

@@ -21,11 +21,11 @@
 
         <!-- Custom Navigation replacing the downloads section -->
         <section id="downloads">
-          <nav style="text-align: center; margin-top: 20px;">
-            <a href="/" class="btn" style="margin: 0 5px;">Home</a>
-            <a href="/about/" class="btn" style="margin: 0 5px;">About</a>
-            <!-- <a href="/projects/" class="btn" style="margin: 0 5px;">Projects</a> -->
-            <a href="/contact/" class="btn" style="margin: 0 5px;">Contact</a>
+          <nav style="text-align: center !important; margin-top: 20px; display: flex; justify-content: center; flex-wrap: wrap;">
+            <a href="{{ '/' | relative_url }}" class="btn" style="margin: 0 5px;">Home</a>
+            <a href="{{ '/about/' | relative_url }}" class="btn" style="margin: 0 5px;">About</a>
+            <!-- <a href="{{ '/projects/' | relative_url }}" class="btn" style="margin: 0 5px;">Projects</a> -->
+            <a href="{{ '/contact/' | relative_url }}" class="btn" style="margin: 0 5px;">Contact</a>
           </nav>
         </section>
       </div>
