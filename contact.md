@@ -15,7 +15,7 @@ Custom Software Solutions & Web Development
 
 📧 **Email:** [info@wingersolutions.nl](mailto:info@wingersolutions.nl)  
 🌐 **Website:** [wingersolutions.nl](https://wingersolutions.nl)  
-📍 **Location:** Insulindestraat 271, 3038 JS Rotterdam, Netherlands
+📍 **Location:** Rotterdam, Netherlands
 
 ## Services
 
