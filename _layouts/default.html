@@ -24,7 +24,7 @@
         <a id="a-title" href="{{ '/' | relative_url }}">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
-        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+        <h2>{% if page.lang == 'nl' %}{{ site.t.nl.description }}{% else %}{{ site.t.en.description }}{% endif %}</h2>
 
         <!-- Modern Custom Navigation -->
         <section id="downloads">
