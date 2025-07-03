@@ -27,11 +27,25 @@
 
         <!-- Custom Navigation replacing the downloads section -->
         <section id="downloads">
-          <nav style="margin-top: 20px;">
-            <a href="{{ '/' | relative_url }}" class="btn" style="margin: 0 5px;">Home</a>
-            <a href="{{ '/about/' | relative_url }}" class="btn" style="margin: 0 5px;">About</a>
-            <!-- <a href="{{ '/projects/' | relative_url }}" class="btn" style="margin: 0 5px;">Projects</a> -->
-            <a href="{{ '/contact/' | relative_url }}" class="btn" style="margin: 0 5px;">Contact</a>
+          <nav style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+            <div>
+              {% if page.lang == 'nl' %}
+                <a href="/nl/" class="btn" style="margin: 0 5px;">Home</a>
+                <a href="/nl/over/" class="btn" style="margin: 0 5px;">Over</a>
+                <a href="/nl/contact/" class="btn" style="margin: 0 5px;">Contact</a>
+              {% else %}
+                <a href="/" class="btn" style="margin: 0 5px;">Home</a>
+                <a href="/about/" class="btn" style="margin: 0 5px;">About</a>
+                <a href="/contact/" class="btn" style="margin: 0 5px;">Contact</a>
+              {% endif %}
+            </div>
+            <div class="language-switcher">
+              {% if page.lang == 'nl' %}
+                <a href="/" class="btn" style="margin: 0 2px; font-size: 0.9em;">🇬🇧 EN</a>
+              {% else %}
+                <a href="/nl/" class="btn" style="margin: 0 2px; font-size: 0.9em;">🇳🇱 NL</a>
+              {% endif %}
+            </div>
           </nav>
         </section>
       </div>

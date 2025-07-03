@@ -3,6 +3,28 @@ description: "Custom software solutions, web development & consulting"
 baseurl: "" # Empty for custom domain
 url: "https://wingersolutions.nl" # Your custom domain
 
+# Multilingual setup
+languages: ["en", "nl"]
+default_lang: "en"
+exclude_from_localization: ["assets", "CNAME", "README.md"]
+
+# Language-specific content
+t:
+  en:
+    title: "Winger Solutions B. V."
+    description: "Custom software solutions, web development & consulting"
+    nav:
+      home: "Home"
+      about: "About" 
+      contact: "Contact"
+  nl:
+    title: "Winger Solutions B. V."
+    description: "Maatwerk software oplossingen, webontwikkeling & advies"
+    nav:
+      home: "Home"
+      about: "Over"
+      contact: "Contact"
+
 # Theme
 remote_theme: pages-themes/hacker
 
