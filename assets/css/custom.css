@@ -1,0 +1,102 @@
+/* Subtle modern navigation styling */
+.modern-nav {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.nav-links {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.nav-link {
+  padding: 8px 0;
+  background: transparent;
+  border: none;
+  color: #8b949e;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 400;
+  transition: color 0.2s ease;
+  display: inline-block;
+  position: relative;
+}
+
+.nav-link:hover {
+  color: #c9d1d9;
+  text-decoration: none;
+}
+
+.nav-link::after {
+  content: '';
+  position: absolute;
+  bottom: 2px;
+  left: 0;
+  width: 0;
+  height: 1px;
+  background: #c9d1d9;
+  transition: width 0.2s ease;
+}
+
+.nav-link:hover::after {
+  width: 100%;
+}
+
+/* Active page styling */
+.nav-link.active {
+  color: #00ff41;
+  font-weight: 500;
+}
+
+.nav-link.active::after {
+  width: 100%;
+  background: #00ff41;
+  height: 2px;
+}
+
+.language-switcher .nav-link {
+  padding: 6px 10px;
+  font-size: 13px;
+  color: #6e7681;
+  border-radius: 4px;
+  margin-left: 10px;
+}
+
+.language-switcher .nav-link:hover {
+  color: #c9d1d9;
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.language-switcher .nav-link::after {
+  display: none;
+}
+/* Responsive design */
+@media (max-width: 768px) {
+  .modern-nav {
+    /* Keep horizontal layout but allow wrapping */
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 10px;
+  }
+  
+  .nav-links {
+    /* Keep left alignment */
+    justify-content: flex-start;
+    gap: 15px;
+    flex: 1;
+  }
+  
+  .language-switcher {
+    /* Keep on the right */
+    flex-shrink: 0;
+  }
+  
+  .language-switcher .nav-link {
+    margin-left: 0;
+  }
+}

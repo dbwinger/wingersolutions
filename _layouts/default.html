@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
     
     <!-- Favicon -->
     <link rel="icon" type="image/svg+xml" href="{{ '/assets/favicon.svg' | relative_url }}">
@@ -25,25 +26,25 @@
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
 
-        <!-- Custom Navigation replacing the downloads section -->
+        <!-- Modern Custom Navigation -->
         <section id="downloads">
-          <nav style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-            <div>
+          <nav class="modern-nav">
+            <div class="nav-links">
               {% if page.lang == 'nl' %}
-                <a href="/nl/" class="btn" style="margin: 0 5px;">Home</a>
-                <a href="/nl/over/" class="btn" style="margin: 0 5px;">Over</a>
-                <a href="/nl/contact/" class="btn" style="margin: 0 5px;">Contact</a>
+                <a href="{{ '/nl/' | relative_url }}" class="nav-link{% if page.url == '/nl/' or page.url == '/nl/index.html' %} active{% endif %}">Home</a>
+                <a href="{{ '/nl/over/' | relative_url }}" class="nav-link{% if page.url contains '/nl/over' %} active{% endif %}">Over</a>
+                <a href="{{ '/nl/contact/' | relative_url }}" class="nav-link{% if page.url contains '/nl/contact' %} active{% endif %}">Contact</a>
               {% else %}
-                <a href="/" class="btn" style="margin: 0 5px;">Home</a>
-                <a href="/about/" class="btn" style="margin: 0 5px;">About</a>
-                <a href="/contact/" class="btn" style="margin: 0 5px;">Contact</a>
+                <a href="{{ '/' | relative_url }}" class="nav-link{% if page.url == '/' or page.url == '/index.html' %} active{% endif %}">Home</a>
+                <a href="{{ '/about/' | relative_url }}" class="nav-link{% if page.url contains '/about' %} active{% endif %}">About</a>
+                <a href="{{ '/contact/' | relative_url }}" class="nav-link{% if page.url contains '/contact' %} active{% endif %}">Contact</a>
               {% endif %}
             </div>
             <div class="language-switcher">
               {% if page.lang == 'nl' %}
-                <a href="/" class="btn" style="margin: 0 2px; font-size: 0.9em;">🇬🇧 EN</a>
+                <a href="{{ '/' | relative_url }}" class="nav-link">🇬🇧 EN</a>
               {% else %}
-                <a href="/nl/" class="btn" style="margin: 0 2px; font-size: 0.9em;">🇳🇱 NL</a>
+                <a href="{{ '/nl/' | relative_url }}" class="nav-link">🇳🇱 NL</a>
               {% endif %}
             </div>
           </nav>
