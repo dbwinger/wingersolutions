@@ -16,7 +16,9 @@ Custom Software Solutions & Web Development
 
 📧 **Email:** [info@wingersolutions.nl](mailto:info@wingersolutions.nl)  
 🌐 **Website:** [wingersolutions.nl](https://wingersolutions.nl)  
-📍 **Location:** Rotterdam, Netherlands
+📍 **Location:** Rotterdam, Netherlands  
+🏢 **KVK #:** 97648493
+
 
 ## Services
 
@@ -32,4 +34,4 @@ Ready to start your next project? Send us an email and let's discuss how we can 
 
 ---
 
-*We typically respond to all inquiries within 24 hours during business days.*
+*I typically respond to all inquiries within 24 hours during business days.*

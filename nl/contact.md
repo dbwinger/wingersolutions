@@ -16,7 +16,8 @@ Maatwerk Software Oplossingen & Webontwikkeling
 
 📧 **Email:** [info@wingersolutions.nl](mailto:info@wingersolutions.nl)  
 🌐 **Website:** [wingersolutions.nl](https://wingersolutions.nl)  
-📍 **Locatie:** Nederland
+📍 **Locatie:** Nederland  
+🏢 **KVK #:** 97648493
 
 ## Services
 
