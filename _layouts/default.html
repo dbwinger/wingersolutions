@@ -34,10 +34,12 @@
                 <a href="{{ '/nl/' | relative_url }}" class="nav-link{% if page.url == '/nl/' or page.url == '/nl/index.html' %} active{% endif %}">Home</a>
                 <a href="{{ '/nl/over/' | relative_url }}" class="nav-link{% if page.url contains '/nl/over' %} active{% endif %}">Over</a>
                 <a href="{{ '/nl/contact/' | relative_url }}" class="nav-link{% if page.url contains '/nl/contact' %} active{% endif %}">Contact</a>
+                <a href="{{ '/nl/quote/' | relative_url }}" class="nav-link{% if page.url contains '/nl/quote' %} active{% endif %}">Quote</a>
               {% else %}
                 <a href="{{ '/' | relative_url }}" class="nav-link{% if page.url == '/' or page.url == '/index.html' %} active{% endif %}">Home</a>
                 <a href="{{ '/about/' | relative_url }}" class="nav-link{% if page.url contains '/about' %} active{% endif %}">About</a>
                 <a href="{{ '/contact/' | relative_url }}" class="nav-link{% if page.url contains '/contact' %} active{% endif %}">Contact</a>
+                <a href="{{ '/quote/' | relative_url }}" class="nav-link{% if page.url contains '/quote' %} active{% endif %}">Quote</a>
               {% endif %}
             </div>
             <div class="language-switcher">

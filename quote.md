@@ -7,11 +7,10 @@ permalink: /quote/
 
 # Request a Quote
 
-Fill out the form below and we'll get back to you within one business day.
+Fill out the form below and we'll get back to you within 2 business days.
 
 <form action="https://formspree.io/f/mvgevpzz" method="POST" class="quote-form">
   <input type="hidden" name="_subject" value="New quote request - Winger Solutions" />
-  <input type="hidden" name="_next" value="{{ site.url }}{{ '/contact/' | relative_url }}" />
   <p style="display:none">
     <label>Leave this field empty
       <input type="text" name="_gotcha" />
@@ -53,10 +52,6 @@ Fill out the form below and we'll get back to you within one business day.
 
   <label for="notes">Additional details</label>
   <textarea id="notes" name="notes" rows="4"></textarea>
-
-  <label>
-    <input type="checkbox" name="portfolio" value="yes"> I'd like to see portfolio examples
-  </label>
 
   <p style="font-size: 0.9em; color: #999; margin-top: 15px;">
     By submitting this form, you agree to our <a href="{{ '/terms/' | relative_url }}">Terms & Conditions</a> and <a href="{{ '/privacy/' | relative_url }}">Privacy Policy</a>. We use <a href="https://formspree.io/" target="_blank">Formspree</a> to handle submissions securely.

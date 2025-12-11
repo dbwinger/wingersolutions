@@ -7,11 +7,10 @@ permalink: /nl/quote/
 
 # Offerte aanvragen
 
-Vul het formulier in en je krijgt binnen één werkdag een reactie.
+Vul het formulier in en je krijgt binnen twee werkdagen een reactie.
 
 <form action="https://formspree.io/f/mvgevpzz" method="POST" class="quote-form">
   <input type="hidden" name="_subject" value="Nieuwe offerteaanvraag - Winger Solutions" />
-  <input type="hidden" name="_next" value="{{ site.url }}{{ '/nl/contact/' | relative_url }}" />
   <p style="display:none">
     <label>Laat dit veld leeg
       <input type="text" name="_gotcha" />
@@ -53,10 +52,6 @@ Vul het formulier in en je krijgt binnen één werkdag een reactie.
 
   <label for="notes">Aanvullende details</label>
   <textarea id="notes" name="notes" rows="4"></textarea>
-
-  <label>
-    <input type="checkbox" name="portfolio" value="yes"> Ik wil graag portfolio-voorbeelden zien
-  </label>
 
   <p style="font-size: 0.9em; color: #999; margin-top: 15px;">
     Door dit formulier in te dienen, gaat u akkoord met onze <a href="{{ '/nl/terms/' | relative_url }}">Algemene Voorwaarden</a> en <a href="{{ '/nl/privacy/' | relative_url }}">Privacyverklaring</a>. We gebruiken <a href="https://formspree.io/" target="_blank">Formspree</a> voor veilige verwerking.
