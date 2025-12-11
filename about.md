@@ -38,5 +38,6 @@ Every project I work on follows these principles:
 - **Direct Communication** - You work directly with me, not a team of intermediaries
 - **Quality Focus** - I take pride in delivering robust, well-tested solutions
 - **Ongoing Support** - Available for maintenance and future enhancements
+- **Portfolio Examples** - Case studies and work samples available upon request
 
 Ready to discuss your Ruby on Rails project? [Let's talk!](/contact/)

@@ -38,5 +38,6 @@ Elk project waaraan ik werk volgt deze principes:
 - **Directe Communicatie** - Je werkt rechtstreeks met mij, niet met een team van tussenpersonen
 - **Kwaliteitsfocus** - Ik ben er trots op robuuste, goed geteste oplossingen te leveren
 - **Doorlopende Ondersteuning** - Beschikbaar voor onderhoud en toekomstige verbeteringen
+- **Portfolio-voorbeelden** - Case studies en werkmonsters beschikbaar op aanvraag
 
 Klaar om je Ruby on Rails project te bespreken? [Laten we praten!](/nl/contact/)

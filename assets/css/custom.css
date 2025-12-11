@@ -114,3 +114,30 @@
 .site-footer p {
   margin: 0;
 }
+
+/* Quote form */
+.quote-form {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-top: 20px;
+}
+
+.quote-form label {
+  font-weight: 600;
+}
+
+.quote-form input,
+.quote-form select,
+.quote-form textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.04);
+  color: #fff;
+}
+
+.quote-form button {
+  align-self: flex-start;
+}

@@ -59,6 +59,17 @@
       
       <footer class="site-footer">
         <p>&copy; {{ 'now' | date: "%Y" }} Winger Solutions B.V. | KVK #: 97648493</p>
+        <p>
+          {% if page.lang == 'nl' %}
+            <a href="{{ '/nl/terms/' | relative_url }}">Algemene voorwaarden</a> ·
+            <a href="{{ '/nl/delivery/' | relative_url }}">Leveringsbeleid</a> ·
+            <a href="{{ '/nl/refund/' | relative_url }}">Retour & annulering</a>
+          {% else %}
+            <a href="{{ '/terms/' | relative_url }}">Terms & Conditions</a> ·
+            <a href="{{ '/delivery/' | relative_url }}">Delivery Policy</a> ·
+            <a href="{{ '/refund/' | relative_url }}">Refund & Cancellation</a>
+          {% endif %}
+        </p>
       </footer>
     </div>
   </body>

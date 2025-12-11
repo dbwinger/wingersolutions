@@ -26,6 +26,12 @@ My goal isn't just to write code—it's to understand your business and build so
 - **Legacy Modernization** - Upgrade your Rails apps to the latest versions
 - **Performance Optimization** - Make your existing apps faster
 
+### 💵 Pricing & Engagement
+- Free 30-minute consult for new clients
+- Hourly rate starts at €110 (excl. VAT), subject to written agreement
+- Fixed-price contracts considered for very well-defined projects
+- [Request a quote →]({{ '/quote/' | relative_url }})
+
 ### 💡 **Why Choose Ruby on Rails?**
 
 Rails lets us build powerful web applications **fast**. It's battle-tested by companies like GitHub, Shopify, and Basecamp. With Rails, you get:

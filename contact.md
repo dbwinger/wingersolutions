@@ -16,8 +16,17 @@ Custom Software Solutions & Web Development
 
 📧 **Email:** [info@wingersolutions.nl](mailto:info@wingersolutions.nl)  
 🌐 **Website:** [wingersolutions.nl](https://wingersolutions.nl)  
-📍 **Location:** Rotterdam, Netherlands  
+📍 **Address:** Insulindestraat 271, 3038JS Rotterdam, Netherlands  
+📞 **Phone:** +31 6 30229995  
 🏢 **KVK #:** 97648493
+
+ [Request a quote →]({{ '/quote/' | relative_url }})
+
+## Pricing & Engagement
+
+- Free 30-minute consult for new clients
+- Hourly rate starts at €110 (excl. VAT), subject to written agreement
+- Fixed-price contracts considered for well-defined projects
 
 
 ## Services
@@ -31,6 +40,8 @@ Custom Software Solutions & Web Development
 ## Let's Connect
 
 Ready to start your next project? Send us an email and let's discuss how we can help bring your ideas to life.
+
+[Prefer a form? Request a quote →]({{ '/quote/' | relative_url }})
 
 ---
 

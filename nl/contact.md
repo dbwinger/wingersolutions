@@ -16,7 +16,17 @@ Maatwerk Software Oplossingen & Webontwikkeling
 
 📧 **Email:** [info@wingersolutions.nl](mailto:info@wingersolutions.nl)  
 🌐 **Website:** [wingersolutions.nl](https://wingersolutions.nl)  
-📍 **Locatie:** Nederland  
+📍 **Adres:** Insulindestraat 271, 3038JS Rotterdam, Nederland  
+📞 **Telefoon:** +31 6 30229995  
+🏢 **KVK:** 97648493
+
+[Vraag een offerte aan →]({{ '/nl/quote/' | relative_url }})
+
+## Tarieven & Samenwerking
+
+- Gratis kennismaking van 30 minuten voor nieuwe klanten
+- Uurtarief vanaf €110 (excl. btw), onder voorbehoud van schriftelijke overeenstemming
+- Vaste prijs mogelijk bij duidelijk omschreven projecten
 🏢 **KVK #:** 97648493
 
 ## Services
@@ -30,6 +40,8 @@ Maatwerk Software Oplossingen & Webontwikkeling
 ## Laten We Verbinden
 
 Klaar om je volgende project te starten? Stuur me een email en laten we bespreken hoe ik je ideeën tot leven kan helpen brengen.
+
+[Liever een formulier? Vraag een offerte aan →]({{ '/nl/quote/' | relative_url }})
 
 ---
 
