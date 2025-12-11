@@ -64,4 +64,4 @@ Vul het formulier in en je krijgt binnen twee werkdagen een reactie.
 **Wat je kunt verwachten**
 - Gratis kennismaking van 30 minuten voor nieuwe klanten
 - Uurtarief vanaf €110 (excl. btw), onder voorbehoud van schriftelijke overeenstemming; vaste prijs mogelijk bij duidelijk omschreven projecten
-- Je ontvangt binnen één werkdag een bevestiging en opvolging
+- Je ontvangt binnen 48 uur een bevestiging en opvolging

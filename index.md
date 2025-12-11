@@ -34,7 +34,7 @@ My goal isn't just to write code—it's to understand your business and build so
 
 ### 💡 **Why Choose Ruby on Rails?**
 
-Rails lets us build powerful web applications **fast**. It's battle-tested by companies like GitHub, Shopify, and Basecamp. With Rails, you get:
+Rails lets me build powerful web applications **fast**. It's battle-tested by companies like GitHub, Shopify, and Basecamp. With Rails, you get:
 
 - **Rapid Development** - Get to market faster
 - **Scalable Architecture** - Grows with your business

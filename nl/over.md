@@ -23,13 +23,13 @@ Ik specialiseer me in **Ruby on Rails ontwikkeling** en help bedrijven hun idee�
 
 ## Mijn Aanpak
 
-Ik geloof in het schrijven van code die niet alleen functioneel is, maar ook onderhoudbaar en schaalbaar. Ik werk nauw samen met mijn klanten om hun bedrijfsbehoeften te begrijpen en deze te vertalen naar elegante technische oplossingen.
+Ik geloof in het schrijven van code die niet alleen functioneel is, maar begrijpelijk, onderhoudbaar en schaalbaar. Ik werk nauw samen met mijn klanten om hun bedrijfsbehoeften te begrijpen en deze te vertalen naar elegante technische oplossingen. Ik werk met andere experts samen om het werk goed uit te voeren.
 
 Elk project waaraan ik werk volgt deze principes:
 - **Schone Code** - Goed gestructureerd, leesbaar en onderhoudbaar
-- **Prestatie-gericht** - Geoptimaliseerd voor snelheid en efficiëntie
+- **Test-Driven Development** - Uitgebreide testing voor betrouwbaarheid
 - **Agile Proces** - Regelmatige communicatie en iteratieve oplevering
-- **Kwaliteitsfocus** - Uitgebreide testing voor betrouwbaarheid
+- **Prestatie-gericht** - Geoptimaliseerd voor snelheid en efficiëntie
 
 ## Waarom Met Mij Werken?
 

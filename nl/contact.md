@@ -39,10 +39,8 @@ Maatwerk Software Oplossingen & Webontwikkeling
 
 ## Laten We Verbinden
 
-Klaar om je volgende project te starten? Stuur me een email en laten we bespreken hoe ik je ideeën tot leven kan helpen brengen.
-
-[Liever een formulier? Vraag een offerte aan →]({{ '/nl/quote/' | relative_url }})
+Klaar om je volgende project te starten? [Neem contact met mij op →]({{ '/nl/quote/' | relative_url }})
 
 ---
 
-*Ik reageer gewoonlijk binnen 24 uur op alle vragen tijdens werkdagen.*
+*Ik reageer gewoonlijk binnen 48 uur op alle vragen tijdens werkdagen.*

@@ -19,6 +19,6 @@ permalink: /nl/refund/
 Afspraken kunnen met redelijke termijn worden verzet. Herhaald kortetermijn-annuleren kan leidt tot gefactureerde tijd voor voorbereid werk.
 
 ## Kwaliteitsissues
-Bij materiële gebreken herstellen we deze binnen een redelijke termijn in lijn met de afgesproken scope. Remedies omvatten geen feature-wijzigingen of nieuwe scope.
+Bij materiële gebreken zullen we deze binnen een redelijke termijn in lijn met de afgesproken scope herstellen. Remedies omvatten geen feature-wijzigingen of nieuwe scope.
 
 _Laatste update: {{ 'now' | date: '%Y-%m-%d' }}_

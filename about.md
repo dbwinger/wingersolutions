@@ -23,7 +23,7 @@ I specialize in **Ruby on Rails development** and help businesses bring their id
 
 ## My Approach
 
-I believe in writing code that's not just functional, but maintainable and scalable. I work closely with my clients to understand their business needs and translate them into elegant technical solutions.
+I believe in writing code that's not just functional, but understandable, maintainable and scalable. I work closely with my clients to understand their business needs and translate them into elegant technical solutions.  I work with other experts to get the job done right.
 
 Every project I work on follows these principles:
 - **Clean Code** - Well-structured, readable, and maintainable

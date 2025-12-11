@@ -64,4 +64,4 @@ Fill out the form below and we'll get back to you within 2 business days.
 **What to expect**
 - Free 30-minute consult for new clients
 - Hourly rate starts at €110 (excl. VAT), subject to written agreement; fixed-price contracts considered for well-defined projects
-- You'll receive a confirmation and follow-up within one business day
+- You'll receive a confirmation and follow-up within 48 hours
