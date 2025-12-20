@@ -18,7 +18,8 @@ Maatwerk Software Oplossingen & Webontwikkeling
 🌐 **Website:** [wingersolutions.nl](https://wingersolutions.nl)  
 📍 **Adres:** Insulindestraat 271, 3038JS Rotterdam, Nederland  
 📞 **Telefoon:** +31 6 30229995  
-🏢 **KVK:** 97648493
+🏢 **KVK:** 97648493  
+💼 **BTW-ID:** NL868157004B01
 
 [Vraag een offerte aan →]({{ '/nl/quote/' | relative_url }})
 
